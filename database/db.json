@@ -1,0 +1,36 @@
+{
+  "finances": [
+    {
+      "type": "deposit",
+      "category": "Financias",
+      "amount": 2500,
+      "title": "Salário",
+      "date": "2022-11-01",
+      "id": 8
+    },
+    {
+      "type": "withdraw",
+      "category": "Automóvel",
+      "amount": 1250,
+      "title": "Carro",
+      "date": "2022-11-01",
+      "id": 9
+    },
+    {
+      "type": "withdraw",
+      "category": "Entreterimento",
+      "amount": 250,
+      "title": "Assinaturas",
+      "date": "2022-11-01",
+      "id": 10
+    },
+    {
+      "type": "withdraw",
+      "category": "Estudos",
+      "amount": 375,
+      "title": "Cursos",
+      "date": "2022-11-01",
+      "id": 11
+    }
+  ]
+}
